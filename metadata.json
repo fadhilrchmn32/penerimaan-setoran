@@ -1,0 +1,6 @@
+{
+  "name": "Penerimaan & Setoran",
+  "description": "Aplikasi internal keuangan distributor untuk pencatatan penerimaan transfer dan tunai, verifikasi dana, pengelolaan saldo kas di penagih, setoran, mutasi bank, dan handoff akuntansi berbasis kontrak FINOPS_SHARED_V1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
